@@ -1,3 +1,5 @@
+new WOW().init();
+
 let loginForm = document.querySelector('.login-form');
 let loginBtn = document.querySelector('#login-btn');
 let closeBtn = document.querySelector('.close')
